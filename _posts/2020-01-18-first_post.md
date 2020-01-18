@@ -2,4 +2,4 @@
 
 This is my first post.
 
-![batman](images/batman.jpg)
+![batman](levycheng.github.io/images/batman.jpg)
