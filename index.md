@@ -1,7 +1,8 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to this blog. 
 
-![Image of fast.ai logo](images/logo.png)
+This is blog is about tracking and building my own knowledge management system.
 
-## This is a title
+## DAY 1 Getting start
+Learn [Markdown](https://guides.github.com/features/mastering-markdown/), and the [bloging tips](https://www.fast.ai/), I also found a wonder project [100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) 
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
+
