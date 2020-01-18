@@ -2,4 +2,4 @@
 
 This is my first post.
 
-![Batman](images/batman.jpg)
+![batman](images/batman.jpg)
